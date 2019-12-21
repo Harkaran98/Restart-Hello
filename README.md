@@ -1,3 +1,3 @@
 # Restart-Hello
-Restarting with Git
+Restarting Git
 Editing the readme file
